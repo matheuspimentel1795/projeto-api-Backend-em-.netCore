@@ -10,5 +10,4 @@ Criação de um loja virtual com produtos e categorias, com utilização de tabe
  - criacao do autoMapper
  - criação das repository e controllers
 
-* O que falta
-  - criação das services
+
