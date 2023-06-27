@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kVYm6Z8bdeA9PCXErMN4wx9ML+c3b27d8CDzDKuYwVgEwirugA6HZNKfa824pZ1vEm8Ns8p03FZjp6WTACLzIQ==",
+  "dgSpecHash": "lQhTiKcHJVSWqF1Z7MorI5nwIsn+1qa89VIvDs+EoyHaOaR17do1qUhIimnnCohxteXf7n83FD3G0pJpGK3a8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matheus\\source\\repos\\VShop.ProductApi\\VShop.ProductApi\\VShop.ProductApi.csproj",
+  "projectFilePath": "C:\\Users\\matheus\\Desktop\\projeto-api-Backend-em-.netCore\\VShop.ProductApi\\VShop.ProductApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matheus\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\matheus\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

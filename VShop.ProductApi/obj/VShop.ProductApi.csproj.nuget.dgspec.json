@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matheus\\source\\repos\\VShop.ProductApi\\VShop.ProductApi\\VShop.ProductApi.csproj": {}
+    "C:\\Users\\matheus\\Desktop\\projeto-api-Backend-em-.netCore\\VShop.ProductApi\\VShop.ProductApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matheus\\source\\repos\\VShop.ProductApi\\VShop.ProductApi\\VShop.ProductApi.csproj": {
+    "C:\\Users\\matheus\\Desktop\\projeto-api-Backend-em-.netCore\\VShop.ProductApi\\VShop.ProductApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matheus\\source\\repos\\VShop.ProductApi\\VShop.ProductApi\\VShop.ProductApi.csproj",
+        "projectUniqueName": "C:\\Users\\matheus\\Desktop\\projeto-api-Backend-em-.netCore\\VShop.ProductApi\\VShop.ProductApi.csproj",
         "projectName": "VShop.ProductApi",
-        "projectPath": "C:\\Users\\matheus\\source\\repos\\VShop.ProductApi\\VShop.ProductApi\\VShop.ProductApi.csproj",
+        "projectPath": "C:\\Users\\matheus\\Desktop\\projeto-api-Backend-em-.netCore\\VShop.ProductApi\\VShop.ProductApi.csproj",
         "packagesPath": "C:\\Users\\matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matheus\\source\\repos\\VShop.ProductApi\\VShop.ProductApi\\obj\\",
+        "outputPath": "C:\\Users\\matheus\\Desktop\\projeto-api-Backend-em-.netCore\\VShop.ProductApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
