@@ -8,6 +8,6 @@ Criação de um loja virtual com produtos e categorias, com utilização de tabe
  - Criação de tabelas no mysql
  - Criação dos DTOS e suas conversões em entidades
  - criacao do autoMapper
- - criação das repository e controllers
+ - criação das repository,services e controllers
 
 
