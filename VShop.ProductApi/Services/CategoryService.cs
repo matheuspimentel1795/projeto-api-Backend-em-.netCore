@@ -30,9 +30,12 @@ namespace VShop.ProductApi.Services
             return _mapper.Map<IEnumerable<CategoryDTO>>(categoriesEntity);
         }
 
-        public Task<IEnumerable<CategoryDTO>> GetCategoriesProducts()
+        public async Task<IEnumerable<CategoryDTO>> GetCategoriesProducts()
         {
-            throw new NotImplementedException();
+
+            var categoriesEntity = await _categoryRepository.GetCategoriesProducts();
+            return _mapper.Map<IEnumerable<CategoryDTO>>(categoriesEntity);
+
         }
 
         public async Task<CategoryDTO> GetCategoryById(int id)
