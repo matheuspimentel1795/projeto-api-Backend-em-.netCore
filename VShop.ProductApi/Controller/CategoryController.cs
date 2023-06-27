@@ -49,5 +49,16 @@ namespace VShop.ProductApi.Controller
             return new CreatedAtRouteResult("GetCategory", new { id = categoryDto.CategoryId },
                 categoryDto);
         }
+        [HttpPut("{id:int}")]
+        public async Task<ActionResult> Edit(int id, [FromBody] CategoryDTO categoryDto)
+        {
+            if(id != categoryDto.CategoryId)
+                return BadRequest();
+            if (categoryDto is null)
+                return BadRequest();
+            await _categoryService.UpdateCategory(categoryDto);
+            return Ok(categoryDto);
+        }
     }
 }
+
